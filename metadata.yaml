@@ -1,0 +1,42 @@
+_repo: Polly-s-Southern-Cruise_42934
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Barbour, Harold S.
+    alias: Barbour, H. S.
+    birthdate: 1889
+    deathdate: 1961
+    gutenberg_agent_id: '24752'
+    url: http://www.gutenberg.org/2009/agents/24752
+covers:
+- cover_type: archival
+  image_path: 42934-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Roy, Lillian Elizabeth
+    alias: Roy, Lillian Elizabeth Becker
+    birthdate: 1868
+    deathdate: 1932
+    gutenberg_agent_id: '1910'
+    url: http://www.gutenberg.org/2009/agents/1910
+description: ''
+gutenberg_issued: '2013-06-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42934'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Caribbean Area -- Description and travel -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Cuba -- Description and travel -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Panama -- Description and travel -- Juvenile fiction'
+- !lcsh 'Florida -- Description and travel -- Juvenile fiction'
+- !lcsh 'Ocean travel -- Juvenile fiction'
+- !lcsh 'Young women -- Social life and customs -- Juvenile fiction'
+- !lcsh 'Sea stories'
+title: Polly's Southern Cruise
+url: http://www.gutenberg.org/ebooks/42934
